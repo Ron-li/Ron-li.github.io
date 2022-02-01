@@ -6,18 +6,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Table of contents
 
-- 1 [Characteristics](#characteristics)  
-  * [Editing]{#editing}
-    1.1.1 [Source editing]{#source-editing}
-    1.1.2 [Layout consistency]{#layout-consistency}
-    1.1.3 [Basic syntax]{#basic-syntax}
-    1.1.4 [Visual editing]{#visual-editing]
-    1.1.5 [Version History]{#version-history}
-    1.1.6 [Edit summary]{#edit-summary}
-- 2 [History]{#history}
-- 3 [Alternative definitions]{#alternative-definitions}
-- 4 [Implementations]{#implementations}
-- 5 [Trust and security]{#trust-and--security}
+- [1 Characteristics](#1-characteristics)
+  * [1.1 Editing](#11-editing)
+    + [1.1.1 Source editing](#111-source-editing)
+    + [1.1.2 Layout consistency](#112-layout-consistency)
+    + [1.1.3 Basic syntax](#113-basic-syntax)
+    + [1.1.4 Visual editing](#114-visual-editing)
+    + [1.1.5 Version History](#115-version-history)
+    + [1.1.6 Edit summary](#116-edit-summary)
+  * [2 History](#2-history)
+  * [3 Alternative definitions](#3-alternative-definitions)
+  * [4 Implementations](#4-implementations)
+  * [5 Trust and security](#5-trust-and-security)
 
 
 
@@ -53,12 +53,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-## Characteristics
+## 1 Characteristics
 
-## History
+## 2 History
 
-## Alternative definitions
+## 3 Alternative definitions
 
-## Implementations
+## 4 Implementations
 
-## Trust and security
+## 5 Trust and security
