@@ -4,6 +4,23 @@ You can use the [editor on GitHub](https://github.com/Ron-li/Ron-li.github.io/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Table of contents
+
+1 [Characteristics](#characteristics)
+  1.1 [Editing]{#editing}
+    1.1.1 [Source editing]{#source-editing}
+    1.1.2 [Layout consistency]{#layout-consistency}
+    1.1.3 [Basic syntax]{#basic-syntax}
+    1.1.4 [Visual editing]{#visual-editing]
+    1.1.5 [Version History]{#version-history}
+    1.1.6 [Edit summary]{#edit-summary}
+2 [History]{#history}
+3 [Alternative definitions]{#alternative-definitions}
+4 [Implementations]{#implementations}
+5 [Trust and security]{#trust-and--security}
+
+## Characteristics{#characteristics}
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
