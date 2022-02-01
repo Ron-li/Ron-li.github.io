@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Table of contents
 
-1 [Characteristics](#characteristics)
+- 1 [Characteristics](#characteristics)  
   1.1 [Editing]{#editing}
     1.1.1 [Source editing]{#source-editing}
     1.1.2 [Layout consistency]{#layout-consistency}
@@ -14,8 +14,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     1.1.4 [Visual editing]{#visual-editing]
     1.1.5 [Version History]{#version-history}
     1.1.6 [Edit summary]{#edit-summary}
-2 [History]{#history}
-3 [Alternative definitions]{#alternative-definitions}
+- 2 [History]{#history}
+- 3 [Alternative definitions]{#alternative-definitions}
 4 [Implementations]{#implementations}
 5 [Trust and security]{#trust-and--security}
 
