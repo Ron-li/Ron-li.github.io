@@ -18,6 +18,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - [3 Alternative definitions](#3-alternative-definitions)
 - [4 Implementations](#4-implementations)
 - [5 Trust and security](#5-trust-and-security)
+  * [5.1 Controlling changes](#51-controlling-changes)
+  * [5.2 Trustworthiness and reliability of content](#52-trustworthiness-and-reliability-of-content)
+  * [5.3 Security](#53-security)
+    + [5.3.1 Potential malware vector](#531-potential-malware-vector)
+- [6 Communities](#6-communities)
+  * [6.1 Applications](#61-applications)
+  * [6.2 City wikis](#62-city-wikis)
+  * [6.3 WikiNodes](#63-wikinodes)
 
 ## 1 Characteristics
 
@@ -42,3 +50,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## 4 Implementations
 
 ## 5 Trust and security
+
+### 5.1 Controlling changes
+
+### 5.2 Trustworthiness and reliability of content
+
+### 5.3 Security
+
+#### 5.3.1 Potential malware vector
+
+## 6 Communities
+
+### 6.1 Applications
+
+### 6.2 City wikis
+
+### 6.3 WikiNodes
