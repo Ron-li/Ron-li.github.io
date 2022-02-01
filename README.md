@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Table of contents
 
 - 1 [Characteristics](#characteristics)  
-  1.1 [Editing]{#editing}
+  * [Editing]{#editing}
     1.1.1 [Source editing]{#source-editing}
     1.1.2 [Layout consistency]{#layout-consistency}
     1.1.3 [Basic syntax]{#basic-syntax}
@@ -16,8 +16,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     1.1.6 [Edit summary]{#edit-summary}
 - 2 [History]{#history}
 - 3 [Alternative definitions]{#alternative-definitions}
-4 [Implementations]{#implementations}
-5 [Trust and security]{#trust-and--security}
+- 4 [Implementations]{#implementations}
+- 5 [Trust and security]{#trust-and--security}
 
 
 
@@ -53,4 +53,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-## Characteristics
+## 1 Characteristics
