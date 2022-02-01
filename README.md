@@ -19,41 +19,21 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   * [4 Implementations](#4-implementations)
   * [5 Trust and security](#5-trust-and-security)
 
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ron-li/Ron-li.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
 ## 1 Characteristics
+
+### 1.1 Editing
+
+#### 1.1.1 Source editing
+
+#### 1.1.2 Layout consistency
+
+#### 1.1.3 Basic syntax
+
+#### 1.1.4 Visual editing
+
+#### 1.1.5 Version History
+
+#### 1.1.6 Edit summary
 
 ## 2 History
 
