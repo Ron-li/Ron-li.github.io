@@ -14,10 +14,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     + [1.1.4 Visual editing](#114-visual-editing)
     + [1.1.5 Version History](#115-version-history)
     + [1.1.6 Edit summary](#116-edit-summary)
-  * [2 History](#2-history)
-  * [3 Alternative definitions](#3-alternative-definitions)
-  * [4 Implementations](#4-implementations)
-  * [5 Trust and security](#5-trust-and-security)
+- [2 History](#2-history)
+- [3 Alternative definitions](#3-alternative-definitions)
+- [4 Implementations](#4-implementations)
+- [5 Trust and security](#5-trust-and-security)
 
 ## 1 Characteristics
 
